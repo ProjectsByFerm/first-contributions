@@ -1,4 +1,5 @@
 # Contributors
+- [Fermin Valenzuela](https://github.com/ProjectsByFerm)
 - [Brandon Tavares](https://github.com/Btavares64)
 - [KonnorDev](https://github.com/KonnorDev)
 - [Mukul Bhardwaj](https://github.com/MukulB0412)
